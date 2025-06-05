@@ -1,4 +1,4 @@
-# Hi, I'm Prakhar Kumar 👋 (Ax-0m)
+# Hi, I'm Ax-0m 👋
 
 **Full-stack developer** writing clean code by day,  
 and jungling the **Rift** by night.  

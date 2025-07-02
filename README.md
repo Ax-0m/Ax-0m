@@ -1,6 +1,6 @@
 # Hi, I'm Prakhar
 
-**Full-stack developer** who likes shipping features, squashing bugs, and learning new tricks along the way.
+**Full-stack developer** who likes building things and picking up new tricks along the way.
 
 By day: writing code that (hopefully) makes life easier.  
 By night: exploring new frameworks, APIs, and the occasional side quest.

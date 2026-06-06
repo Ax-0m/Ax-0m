@@ -1,6 +1,6 @@
 # Hi, I'm Prakhar
 
-**Full-stack developer** who likes building things and picking up new tricks along the way.
+breaking apis so you don't have to | backend dev | open to internships
 
 By day: writing code that (hopefully) makes life easier.  
 By night: exploring new frameworks, APIs, and the occasional side quest.

@@ -1,6 +1,6 @@
 # Hi, I'm Prakhar
 
-breaking apis so you don't have to | backend dev | open to internships
+Breaking apis so you don't have to | backend dev
 
 By day: writing code that (hopefully) makes life easier.  
 By night: exploring new frameworks, APIs, and the occasional side quest.
